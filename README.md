@@ -1,6 +1,6 @@
-<h1 align="center">Jeff Music</h1>
 <h1 align="center">
-  <img alt="Happy" title="JeffBanck" src="https://user-images.githubusercontent.com/60162736/98467362-a2418e80-21b3-11eb-9659-77bea6e8ef96.png">
+  Jeff Music
+  <img alt="Happy" title="JeffBanck" src="https://user-images.githubusercontent.com/60162736/98467390-c43b1100-21b3-11eb-8963-df978df8e913.png">
 </h1>
 
 <div align="center"></div>
