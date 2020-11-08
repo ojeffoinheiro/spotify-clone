@@ -6,6 +6,7 @@ import {
     ActionName
 } from './styles'
 import Icon from 'react-native-vector-icons/Foundation';
+import Icone from 'react-native-vector-icons/MaterialCommunityIcons';
 
 const TabBar = () =>{
     const [iconConfigure] = useState({
@@ -28,7 +29,7 @@ const TabBar = () =>{
                     </ActionName>
                 </GroupAction>
                 <GroupAction>
-                    <Icon name="list" {...iconConfigure}/>
+                    <Icone name="view-parallel" {...iconConfigure}/>
                     <ActionName>
                         Sua biblioteca
                     </ActionName>

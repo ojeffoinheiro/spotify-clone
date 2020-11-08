@@ -1,12 +1,15 @@
 import React from 'react'
-import TabBar from './src/components/TabBar'
+import { StatusBar } from 'react-native'
 
-import Main from './src/pages/Main'
+import TabBar from './src/components/TabBar'
+// import Main from './src/pages/Main'
+import Album from './src/pages/Album'
 
 const App = () => {
   return(
     <React.Fragment>
-      <Main />
+      <StatusBar barStyle="light-content" />
+      <Album />
       <TabBar />
     </React.Fragment>
   );
